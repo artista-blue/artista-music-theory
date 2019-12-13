@@ -1,0 +1,28 @@
+{
+  "name": "artista-music-theory",
+  "version": "0.0.1",
+  "description": "Library for music theory",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artista-blue/artista-music-theory.git"
+  },
+  "keywords": [
+    "music",
+    "theory",
+    "scale",
+    "chord"
+  ],
+  "author": "Takayoshi Aoyagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artista-blue/artista-music-theory/issues"
+  },
+  "homepage": "https://github.com/artista-blue/artista-music-theory#readme"
+}
