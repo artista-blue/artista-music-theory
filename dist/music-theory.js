@@ -180,7 +180,7 @@ class Scales {
 	    },
 	    {
 		value: 'wholetone',
-		name 'Whole Tone Scale'
+		name: 'Whole Tone Scale'
 	    }
 	];
     }
